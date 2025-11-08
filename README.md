@@ -212,13 +212,4 @@ This is a demonstration project. For production use:
 
 MIT License - See LICENSE file for details
 
-## 📞 Support
 
-For issues or questions:
-- Open an issue on GitHub
-- Check [Lovable documentation](https://docs.lovable.dev/)
-- Review [Supabase guides](https://supabase.com/docs/guides)
-
----
-
-**Built with ❤️ using Lovable, React, Blockchain, and IPFS**
